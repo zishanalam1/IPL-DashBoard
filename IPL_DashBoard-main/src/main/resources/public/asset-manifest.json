@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87bce61f.css",
+    "main.js": "/static/js/main.259237b2.js",
+    "static/js/787.1e83dcc9.chunk.js": "/static/js/787.1e83dcc9.chunk.js",
+    "static/media/jpg": "/static/media/13683c135faf798e8b30954673c3b100.d52e98755eef32ca30d3.jpg",
+    "static/media/wp7498656.webp": "/static/media/wp7498656.2ac551381d08ba5b17b4.webp",
+    "static/media/IPL-Tickets-Lucknow.jpg": "/static/media/IPL-Tickets-Lucknow.6b441e46f7cca35b864e.jpg",
+    "static/media/Sunrisers_Hyderabad.png": "/static/media/Sunrisers_Hyderabad.b73f3f30229fc34dae6c.png",
+    "static/media/csk-logo-2022-jpg.jpg": "/static/media/csk-logo-2022-jpg.e440c504be29458484e4.jpg",
+    "static/media/Mumbai_Indians_Logo.svg.png": "/static/media/Mumbai_Indians_Logo.svg.6bf04b4f6e59719ab8b0.png",
+    "static/media/Rajasthan_Royals_Logo.svg.png": "/static/media/Rajasthan_Royals_Logo.svg.b8feb75806a1af0c57bd.png",
+    "static/media/Punjab_Kings_Logo.svg.png": "/static/media/Punjab_Kings_Logo.svg.587954655a6c5f7dafdb.png",
+    "static/media/Delhi_Capitals.svg.png": "/static/media/Delhi_Capitals.svg.bdd8d63094a5edf5652b.png",
+    "static/media/gujarattitansslogo_1200x768.webp": "/static/media/gujarattitansslogo_1200x768.8edb99e92aa723acda0c.webp",
+    "index.html": "/index.html",
+    "main.87bce61f.css.map": "/static/css/main.87bce61f.css.map",
+    "main.259237b2.js.map": "/static/js/main.259237b2.js.map",
+    "787.1e83dcc9.chunk.js.map": "/static/js/787.1e83dcc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87bce61f.css",
+    "static/js/main.259237b2.js"
+  ]
+}
